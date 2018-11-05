@@ -3,10 +3,10 @@
 ### Sealcropper is a script based on opencv and python. You can crop seal to feed the machine learning algorithm.
 
 #### Original images like this：
-![book](81D85783FB9C4E629390B6E18346826D)
+![book](https://github.com/BigSeanZzz/sealcropper/blob/master/img/book.jpg)
 
 #### After cropping：
-
+![sealcropped](https://github.com/BigSeanZzz/sealcropper/blob/master/img/sealcropped.jpg)
 
 ##### Usage：
 ###### 1.put your original images in folder  “seal”
@@ -32,5 +32,8 @@
 ###### # log_output = 0：不打印过程，批量处理时用。
 ###### log_output = 1
 ###### You will see the processing like this:
+![processing](https://github.com/BigSeanZzz/sealcropper/blob/master/img/processing.jpg)
+![processing2](https://github.com/BigSeanZzz/sealcropper/blob/master/img/processing2.jpg)
+
 
 
