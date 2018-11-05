@@ -1,4 +1,4 @@
-# sealcropper
+# Sealcropper
 
 ### Sealcropper is a script based on opencv and python. You can crop seal to feed the machine learning algorithm.
 
